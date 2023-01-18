@@ -1,0 +1,28 @@
+.about-section {
+  /* width: 80vw; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.about-doc {
+  width: 50%;
+  /* margin: 5vw; */
+}
+.about-doc h2 {
+  text-align: left;
+  color: black;
+}
+.about-doc p {
+  color: black;
+}
+.about-img {
+  position: relative;
+  margin: 5vw;
+}
+/* @media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+} */
